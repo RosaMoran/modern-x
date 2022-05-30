@@ -3,4 +3,4 @@ export { default as Feature } from './features/Feature';
 export { default as Footer } from './footer/Footer';
 export { default as Header } from './header/Header';
 export { default as Possibility } from './possibility/Possibility';
-export { default as WhatModernx } from './WhatModernX/WhatModernx';
+export { default as WhatGPT3 } from './WhatGPT3/WhatGPT3';
