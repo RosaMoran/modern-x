@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Modern-x
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+
+## Introduction
+
+This wedsite ins builded in `react.js` for UI and UX for user.
+
+### Tools  
+- Node.js 
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices 
 
 ## Available Scripts
 
