@@ -6,7 +6,7 @@
 
 This wedsite ins builded in `react.js` for UI and UX for user.
 
-### Tools 
+### Tools  
 - Node.js 
 - React Functional components and their reusability
 - React file and folder structure
